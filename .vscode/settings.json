@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f1392aff-be1b-48fa-b530-4d4374e44ef0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/arodemonjsdemo",
+    "appService.deploySubpath": "."
+}
